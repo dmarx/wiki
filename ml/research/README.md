@@ -13,10 +13,12 @@ Let's try this and see what happens.
 
 ## Architecture/theory
 
-* FNet
+* ["FNet: Mixing Tokens with Fourier Transforms" - 2021 - James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon](https://arxiv.org/abs/2105.03824  )
+  * Google Research
+  * Yannic Kilcher overview: https://www.youtube.com/watch?v=JJR3pBl78zw&t=1297s 
   * Fourier transforms replacing attention in transformers
   * Q: Could this be used to accelerate pretraining?  
-* [2019 - Preetum Nakkiran - "More Data Can Hurt for Linear Regression: Sample-wise Double Descent"](https://arxiv.org/abs/1912.07242)
+* ["More Data Can Hurt for Linear Regression: Sample-wise Double Descent" - 2019 - Preetum Nakkiran -](https://arxiv.org/abs/1912.07242)
   * [Gradient Double Descent](../topics/gradient-double-descent.md) in linear regression
  
 
