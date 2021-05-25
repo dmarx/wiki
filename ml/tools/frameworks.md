@@ -14,6 +14,7 @@
 
 ## Search
 
+* https://github.com/jina-ai/jina
 * FAISS: Efficient vector similarity - https://github.com/facebookresearch/faiss
 * https://github.com/microsoft/SPTAG
 
@@ -37,7 +38,8 @@
 * https://github.com/BrikerMan/Kashgari
 * https://github.com/microsoft/xtreme-distil-transformers
 * https://github.com/Xirider/finetune-gpt2xl
-
+* https://github.com/CompVis/net2net
+* 
 ### Modeling
 
 * https://github.com/nlp-uoregon/trankit
