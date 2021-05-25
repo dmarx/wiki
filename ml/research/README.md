@@ -17,7 +17,7 @@ Let's try this and see what happens.
   * Fourier transforms replacing attention in transformers
   * Q: Could this be used to accelerate pretraining?  
 * [2019 - Preetum Nakkiran - "More Data Can Hurt for Linear Regression: Sample-wise Double Descent"](https://arxiv.org/abs/1912.07242)
-  * Gradient Double Descent in linear regression
+  * [Gradient Double Descent](ml/topics/gradient-double-descent.md) in linear regression
  
 
 ## Causal Inference
