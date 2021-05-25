@@ -7,21 +7,43 @@
 * https://github.com/open-research/sumatra
 * https://github.com/ploomber/ploomber
 * https://github.com/evidentlyai/evidently
+* https://github.com/guildai/guildai
+* https://github.com/mlrun/mlrun
+* https://github.com/Netflix/metaflow
+* https://github.com/SeldonIO/alibi-detect
+* https://github.com/SeldonIO/seldon-core
+* https://github.com/flyteorg/flyte
+* 
+
+## Topological ML / Dimensionality Reduction
+
+* https://github.com/topology-tool-kit/ttk
+* https://github.com/scikit-tda/scikit-tda
+* https://github.com/scikit-tda/kepler-mapper
+* https://github.com/braindynamicslab/dyneusr
+* https://github.com/nmslib/nmslib
+* https://github.com/davisidarta/dbMAP
+* https://github.com/KrishnaswamyLab/Multiscale_PHATE
+* https://github.com/scottgigante/m-phate
+* https://github.com/KrishnaswamyLab/PHATE
+* https://github.com/DiffusionMapsAcademics/pyDiffMap
 
 ## JAX
 
 * https://github.com/google/trax
 * https://github.com/deepmind/optax
+* https://github.com/google/flax
 
 ### Config
 
 * https://github.com/facebookresearch/hydra
 * https://github.com/omry/omegaconf
 
-## Distributed training
+## Distributed training/serverless
 
 * https://github.com/NVIDIA/apex
 * https://github.com/microsoft/DeepSpeed
+* https://github.com/nuclio/nuclio
 
 ## Search/recommendation
 
@@ -39,8 +61,45 @@
 
 ## NLP
 
-### misc
+### Topic modeling
+
+* https://github.com/MaartenGr/BERTopic
+* https://github.com/Stveshawn/contextual_topic_identification
+* https://github.com/bab2min/tomotopy
+* https://github.com/adjidieng/ETM
+* https://github.com/MilaNLProc/contextualized-topic-models
+* https://github.com/sb1992/NETL-Automatic-Topic-Labelling-
+* https://github.com/martingerlach/hSBM_Topicmodel
+* https://github.com/kmpoon/hlta
+* https://github.com/adjidieng/DETM
+* https://github.com/Ardavans/sHDP
+* https://github.com/zll17/Neural_Topic_Models
+* https://github.com/adalmia96/Cluster-Analysis
+* https://github.com/YongfeiYan/Neural-Document-Modeling
+* https://github.com/pgcool/textTOvec
+* https://github.com/yumeng5/JoSH
+* https://github.com/patrickjae/GeneralizedDynamicTopicModels.jl
+* https://github.com/ahoho/kd-topic-models
+* https://github.com/lucastheis/logistic_lda
+* 
+
+### NER
+
+* https://github.com/openai/deeptype
+
+### Spelling Correction
+
+* https://github.com/wolfgarbe/SymSpell
+
+### Summarization
+
 * https://github.com/Anku5hk/Help-Me-Read
+* https://github.com/stangelid/qt
+* https://github.com/abrazinskas/FewSum
+* https://github.com/rit-git/Snippext_public
+* https://github.com/megagonlabs/opiniondigest
+* https://github.com/stangelid/oposum
+* https://github.com/ChenRocks/fast_abs_rl
 
 ### Dataviz
 
@@ -63,13 +122,20 @@
 * https://github.com/pytorch/fairseq
 * https://github.com/flairNLP/flair
 * https://github.com/jina-ai/jina
-
-## Forecasting/Timeseries
+* https://github.com/IntelLabs/nlp-architect
+* 
+## Forecasting/Timeseries/Survival
 
 * https://github.com/linkedin/greykite
 * https://github.com/uber/orbit
 * https://github.com/wannesm/dtaidistance
 * https://github.com/TDAmeritrade/stumpy
+* https://github.com/CamDavidsonPilon/lifelines
+* https://github.com/alan-turing-institute/sktime
+* https://github.com/hfawaz/dl-4-tsc
+
+## Misc regression
+
 * https://github.com/scikit-learn-contrib/py-earth
 
 ## Causal Inference/Experimentation
@@ -77,18 +143,19 @@
 * https://github.com/jakobrunge/tigramite
 * https://github.com/pgmpy/pgmpy
 * https://github.com/facebook/Ax
+* https://github.com/blei-lab/causal-text-embeddings
 
 ## Parameter tuning
 
 * https://github.com/SimonBlanke/Hyperactive
-
+* https://github.com/hyperopt/hyperopt
 
 ## Optimization
 
 * https://github.com/SimonBlanke/Gradient-Free-Optimizers
 * https://github.com/gugarosa/opytimizer
 * https://github.com/msu-coinlab/pymoo
-* 
+* https://github.com/cvxpy/cvxpy
 
 ## Dataviz
 
@@ -101,6 +168,9 @@
 * https://github.com/storybookjs/storybook
 * https://github.com/apache/superset
 * https://github.com/microsoft/SandDance
+* https://github.com/HarisIqbal88/PlotNeuralNet
+* https://github.com/sachsmc/plotROC
+* https://github.com/uwdata/rev
 
 ## Interpretation
 
@@ -110,6 +180,9 @@
 * https://github.com/EmuKit/emukit
 * https://github.com/jonathf/chaospy
 * https://github.com/Kaleidophon/deep-significance
+* https://github.com/Ekeany/Boruta-Shap
+* https://github.com/uwdata/latent-space-cartography
+
 
 ## Performance
 
@@ -117,7 +190,8 @@
 * https://github.com/jmcarpenter2/swifter
 * https://github.com/fastai/fastcore
 * https://github.com/cybertronai/gradient-checkpointing
-
+* https://github.com/neuralmagic/sparseml
+* https://github.com/h2oai/datatable
 
 ## RL
 
@@ -125,17 +199,25 @@
 
 ## Overviews/tutorials/lists
 
-* https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing
 * https://github.com/MorvanZhou/Evolutionary-Algorithm
 * https://github.com/jphall663/awesome-machine-learning-interpretability
 * https://github.com/zhaoxin94/awesome-domain-adaptation
-* https://github.com/ines/spacy-course
-* https://github.com/ericmjl/bayesian-stats-modelling-tutorial
-* https://github.com/JWarmenhoven/DBDA-python
 * https://github.com/justinpinkney/awesome-pretrained-stylegan2
 * https://github.com/TheAlgorithms/Python
-* https://github.com/amit-sharma/causal-inference-tutorial
+* https://github.com/ecoronado92/towards_data_science
+
+### NLP
+
+* https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing
+* https://github.com/ines/spacy-course
+
+### Bayesian / Causal / PGM
+
 * https://github.com/fehiepsi/rethinking-numpyro
+* https://github.com/amit-sharma/causal-inference-tutorial
+* https://github.com/ericmjl/bayesian-stats-modelling-tutorial
+* https://github.com/JWarmenhoven/DBDA-python
+
 
 ### Azureml
 
@@ -146,6 +228,10 @@
 * https://github.com/MicrosoftDocs/km
 * https://github.com/Azure/AzureML-Containers
 * https://github.com/Azure-Samples/azure-search-python-samples
+* https://github.com/infosupport/azureml-cookiecutter
+* https://github.com/Azure-Samples/functions-python-ldamodeling
+* https://github.com/Azure-Samples/azure-search-power-skills
+* https://github.com/Azure/azure-sdk-for-python
 
 ## Bayesian/GP
 
@@ -154,7 +240,8 @@
 * https://github.com/paul-buerkner/brms
 * https://github.com/wesselb/stheno
 * https://github.com/dfm/george
-
+* https://github.com/pyro-ppl/numpyro
+* https://github.com/quantopian/bayesalpha
 
 ## Anomaly detection
 
@@ -167,11 +254,14 @@
 * https://github.com/networkx/grave
 * https://github.com/tkipf/pygcn
 * https://github.com/GiulioRossetti/cdlib
+* https://github.com/statnet/ndtv
+* https://github.com/visjs/vis-network
 
 ## UI
 
 * https://github.com/manrajgrover/halo
-
+* https://github.com/quantopian/qgrid
+* https://idyll-lang.org/docs
 
 ## misc python
 
@@ -184,7 +274,17 @@
 * https://github.com/Instagram/MonkeyType
 * https://github.com/google/pytype
 * https://github.com/theskumar/python-dotenv
-* 
+* https://github.com/GrahamDumpleton/wrapt
+* https://github.com/pytoolz/cytoolz
+* https://github.com/pytoolz/toolz
+* https://github.com/eradman/entr
+
+### Notebooks
+
+* https://github.com/nteract/papermill
+* https://github.com/fastai/nbdev
+* https://github.com/maartenbreddels/ipyvolume
+
 
 ## Research Implementations
 
@@ -206,3 +306,9 @@
 * https://github.com/mit-han-lab/anycost-gan
 * https://github.com/microsoft/MLC
 * https://github.com/huawei-noah/noah-research
+* https://github.com/stangelid/qt
+* https://github.com/KrishnaswamyLab/TrajectoryNet
+* https://github.com/probabilistic-numerics/probnum
+* https://github.com/hzwer/arXiv2020-RIFE
+* https://github.com/sachsmc/reusable-holdout
+* https://github.com/wikipedia2vec/wikipedia2vec
