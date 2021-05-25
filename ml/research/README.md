@@ -34,7 +34,5 @@ Let's try this and see what happens.
 ## Causal Inference
 
 
-[Parent Category](../)
-
 <!-- TAGS
 -->
