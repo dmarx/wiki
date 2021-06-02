@@ -15,7 +15,7 @@
 * https://github.com/flyteorg/flyte
 * 
 
-## Topological ML / Dimensionality Reduction
+## Topological ML / Dimensionality Reduction / Geometric DL
 
 * https://github.com/topology-tool-kit/ttk
 * https://github.com/scikit-tda/scikit-tda
@@ -27,6 +27,7 @@
 * https://github.com/scottgigante/m-phate
 * https://github.com/KrishnaswamyLab/PHATE
 * https://github.com/DiffusionMapsAcademics/pyDiffMap
+* https://github.com/geoopt/geoopt
 
 ## JAX
 
@@ -182,7 +183,7 @@
 * https://github.com/Kaleidophon/deep-significance
 * https://github.com/Ekeany/Boruta-Shap
 * https://github.com/uwdata/latent-space-cartography
-
+* https://github.com/MAIF/shapash
 
 ## Performance
 
@@ -205,7 +206,11 @@
 * https://github.com/justinpinkney/awesome-pretrained-stylegan2
 * https://github.com/TheAlgorithms/Python
 * https://github.com/ecoronado92/towards_data_science
-
+* https://github.com/deep-learning-drizzle/deep-learning-drizzle.github.io
+* https://github.com/xuedong/machine-learning-summer-schools
+* https://github.com/s-ai-kia/CS228_PGM
+* https://github.com/dotnet/mbmlbook
+* 
 ### NLP
 
 * https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing
@@ -242,6 +247,14 @@
 * https://github.com/dfm/george
 * https://github.com/pyro-ppl/numpyro
 * https://github.com/quantopian/bayesalpha
+* https://github.com/stefanwebb/flowtorch
+* https://github.com/kpoeppel/pytorch_probgraph
+* https://github.com/probcomp/sppl
+* https://github.com/probcomp/Gen.jl
+* https://github.com/jmschrei/pomegranate
+* https://github.com/TuringLang/Turing.jl
+* https://github.com/cran/bnlearn
+* https://github.com/erdogant/bnlearn
 
 ## Anomaly detection
 
@@ -312,3 +325,10 @@
 * https://github.com/hzwer/arXiv2020-RIFE
 * https://github.com/sachsmc/reusable-holdout
 * https://github.com/wikipedia2vec/wikipedia2vec
+* https://github.com/kumar-shridhar/PyTorch-BayesianCNN
+* https://github.com/chyikwei/bnp
+* https://github.com/diningphil/CGMM
+* https://github.com/altosaar/variational-autoencoder
+* https://github.com/dalab/hyperbolic_cones
+* https://github.com/alex-tifrea/poincare_glove
+* https://github.com/dalab/hyperbolic_nn
