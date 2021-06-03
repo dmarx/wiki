@@ -17,6 +17,7 @@ Let's try this and see what happens.
 
 * ["More Data Can Hurt for Linear Regression: Sample-wise Double Descent" - 2019 - Preetum Nakkiran -](https://arxiv.org/abs/1912.07242)
   * [Gradient Double Descent](../topics/gradient-double-descent.md) in linear regression
+* NADE - Neural autoregressive density estimation - 2016 - https://arxiv.org/abs/1605.02226
 
 ### Transformers
 
