@@ -21,6 +21,12 @@ Let's try this and see what happens.
 
 ### Transformers
 
+* Performers - 2020 - [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794)
+  * Google/Deepmind
+  * more efficient/sparser linear attention that approximates full-rank softmax transformer attention
+
+* https://hyunjik11.github.io/talks/Attention_the_Analogue_of_Kernels_in_Deep_Learning.pdf
+
 * FNet - ["FNet: Mixing Tokens with Fourier Transforms" - 2021 - James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon](https://arxiv.org/abs/2105.03824  )
   * Google Research
   * Yannic Kilcher overview: https://www.youtube.com/watch?v=JJR3pBl78zw&t=1297s 
