@@ -193,6 +193,7 @@
 * https://github.com/cybertronai/gradient-checkpointing
 * https://github.com/neuralmagic/sparseml
 * https://github.com/h2oai/datatable
+* https://github.com/IntelLabs/distiller
 
 ## RL
 
