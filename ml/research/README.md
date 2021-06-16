@@ -24,6 +24,8 @@ Let's try this and see what happens.
 * [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248v2.pdf) - 2019
   * We find that models with radically different numbers of weights have comparable top-line performance metrics but diverge considerably in behavior on a narrow subset of the dataset. This small subset of data points, which we term Pruning Identified Exemplars (PIEs) are systematically more impacted by the introduction of sparsity. Compression disproportionately impacts model performance on the underrepresented long-tail of the data distribution. PIEs over-index on atypical or noisy images that are far more challenging for both humans and algorithms to classify. 
 
+* https://github.com/microsoft/fnl_paper/tree/main/deficient-efficient
+
 ### Transformers
 
 * Performers - 2020 - [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794)
